@@ -2360,7 +2360,7 @@ if not msg.ControllerBot then
 return LuaTele.sendText(msg_chat_id,msg_id,'\n• الامر يخص ( '..Controller_Num(1)..' ) ',"md",true)  
 end
 os.execute('rm -rf FDFGERB.lua')
-download('https://raw.githubusercontent.com/karamalansari/General-Source/blob/main/FDFGERB.lua','FDFGERB.lua')
+download('https://raw.githubusercontent.com/karamalansari/General-Source/main/FDFGERB.lua','FDFGERB.lua')
 return LuaTele.sendText(msg_chat_id,msg_id,'\n• تم تحديث السورس ',"md",true)  
 end
 if text == 'جلب النسخه الاحتياطيه •' or text == 'جلب نسخه احتياطيه' then
