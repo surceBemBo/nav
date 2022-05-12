@@ -7,7 +7,7 @@ Please wait until the installation is complete
 echo -e '\033[0;33m
 اذا اول مرا تنصب سورس اكتب - 1
 
-اذا منصب سورس من قبل ارسل - 2
+اذا ثاني مره تصب حط 2
 \033[0m'
 read Install
 case $Install in
