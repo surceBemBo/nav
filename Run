@@ -44,12 +44,12 @@ sudo luarocks install luasocket
 cd ../..
 rm -rf tmp
 unzip luatele.zip
-sudo lua5.3 FDFGERB.lua
+sudo lua5.3 AFYONA.lua
 ;;
 2)
 echo -e "\e[1m\e[32mجاري تشغيل البوت الان\e[0m"
 sleep 2
 unzip luatele.zip
-sudo lua5.3 FDFGERB.lua
+sudo lua5.3 AFYONA.lua
 ;;
 esac
